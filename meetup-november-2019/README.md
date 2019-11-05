@@ -12,7 +12,7 @@ Do you need a lot of icons in your Unity project? Technical artists Andreas Hack
 
 Slides: [Creating a variety of icons by smart generation.pdf](https://github.com/innogames/unity-meetup/blob/master/meetup-november-2019/Andreas_Hackel_Unity_Meetup_2019_Creating_variety_of_icons_by_smart_generation.pdf)
 
-Tool and samples: [https://github.com/innogames/collectionicontool]
+Tool and samples: https://github.com/innogames/collectionicontool
 
 3. **"Bring Large Scale Traffic Simulation to Mobile with DOTS" by Hai Nam Pham (InnoGames)**
 
