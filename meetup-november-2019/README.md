@@ -4,7 +4,7 @@
 
 Preparing sound for your game is like preparing a cup of coffee. You need quality materials (SFX), the proper equipment for processing (game engine/middleware), and a well-tuned brewing technique to extract the best product (audio system/implementation). This caffeine-fueled talk will leave you with the tools necessary to brew a bottomless cup of auditory goodness that your players will love.
 
-
+Slides: [Wake Up Your Game with Great Sound](https://drive.google.com/open?id=11BTX9LGmor3DJPSY_57q15eD8MA_6N4VbQYAhvCu2s4)
 
 2. **"Creating a variety of icons by smart generation" by Andreas Hackel (InnoGames)**
 
