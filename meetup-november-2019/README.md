@@ -19,3 +19,5 @@ Tool and samples: https://github.com/innogames/collectionicontool
 DOTS brings high performance and is the core of many new Unity upcoming features. Mastering DOTS is crucial, especially for large scale simulation. However, it also poses a steep learning curve for OOP programmers. In this talk, through the experience of developing a large-scale Traffic Simulation for mobile, I will share the lessons learned, the techniques and the pitfalls to avoid when using DOTS.
 
 Slides: [Bring Large Scale Traffic Simulation to Mobile with DOTS.pdf](https://github.com/innogames/unity-meetup/blob/master/meetup-november-2019/Nam_Pham_Unity_Meetup_2019_Traffic_Simulation_DOTS.pdf)
+
+Source code: git@gitlab.innogames.de:hainam.pham/ecs_experiments.git
