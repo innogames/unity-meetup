@@ -20,4 +20,4 @@ DOTS brings high performance and is the core of many new Unity upcoming features
 
 Slides: [Bring Large Scale Traffic Simulation to Mobile with DOTS.pdf](https://github.com/innogames/unity-meetup/blob/master/meetup-november-2019/Nam_Pham_Unity_Meetup_2019_Traffic_Simulation_DOTS.pdf)
 
-Source code: git@gitlab.innogames.de:hainam.pham/ecs_experiments.git
+Source code: comes soon
